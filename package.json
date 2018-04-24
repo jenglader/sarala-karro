@@ -1,5 +1,5 @@
 {
-  "name": "sarala",
+  "name": "sarala-karro",
   "version": "0.3.2",
   "description": "Javascript library to communicate with RESTful API built following JSON API specification. inspired by Laravel’s Eloquent.",
   "main": "build/index.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/milroyfraser/sarala.git"
+    "url": "git+https://github.com/jenglader/sarala"
   },
   "keywords": [
     "restful-api",
@@ -27,12 +27,12 @@
     "javascript",
     "orm"
   ],
-  "author": "Milroy Fraser",
+  "author": "Michał Bartczak",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/milroyfraser/sarala/issues"
+    "url": "https://github.com/jenglader/sarala/issues"
   },
-  "homepage": "https://github.com/milroyfraser/sarala#readme",
+  "homepage": "https://github.com/jenglader/sarala#readme",
   "dependencies": {
     "lodash": "^4.17.5",
     "moment": "^2.22.0",
