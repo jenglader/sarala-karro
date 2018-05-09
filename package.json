@@ -1,6 +1,6 @@
 {
   "name": "sarala-karro",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "description": "Javascript library to communicate with RESTful API built following JSON API specification. inspired by Laravel’s Eloquent.",
   "main": "build/index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jenglader/sarala"
+    "url": "git+https://github.com/jenglader/sarala-karro"
   },
   "keywords": [
     "restful-api",
@@ -30,9 +30,9 @@
   "author": "Michał Bartczak",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jenglader/sarala/issues"
+    "url": "https://github.com/jenglader/sarala-karro/issues"
   },
-  "homepage": "https://github.com/jenglader/sarala#readme",
+  "homepage": "https://github.com/jenglader/sarala-karro#readme",
   "dependencies": {
     "lodash": "^4.17.5",
     "moment": "^2.22.0",
