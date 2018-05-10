@@ -45,7 +45,8 @@ export default class Model {
         this.queryBuilder.reset();
         let response = await this.request(requestConfig);
 
-        return this.respond(response.data);
+        // return this.respond(response.data);
+        return response;
     }
 
     async find (id) {
