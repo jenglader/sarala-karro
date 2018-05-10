@@ -45,6 +45,9 @@ export default class Model {
         this.queryBuilder.reset();
         let response = await this.request(requestConfig);
 
+        let dfd = 'dfd'
+        let fefee = 'ddsd'
+
         // return this.respond(response.data);
         return response;
     }
